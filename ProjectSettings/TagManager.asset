@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - MovingObstacle
+  - Stamina
+  - Obstacle
+  - ObstacleBelow
+  - SafeZone
+  - SpeedUp
+  - SpeedDown
+  - FallingObject
+  - Star
+  - Collectibles
+  - GlowCamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - LapseTracker
+  - PlayerTracker
+  - Player
+  - GlowCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MainMenu
+    uniqueID: 2788047567
+    locked: 0
+  - name: obstacle
+    uniqueID: 3268100947
+    locked: 0
+  - name: Winning
+    uniqueID: 1468806971
+    locked: 0
+  - name: TobyLevel
+    uniqueID: 4031291325
+    locked: 0
+  - name: Dim
+    uniqueID: 3251485721
+    locked: 0
+  - name: UI
+    uniqueID: 4079731203
+    locked: 0
